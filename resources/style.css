@@ -1,0 +1,64 @@
+
+body {
+  background-color: #c0c0c0;
+}
+
+.jumbotron {
+  background-color: #000000;
+  color: #f8f8ff;
+  text-align: center;
+}
+
+.news {
+  background-color: black;
+  text-align: center;
+  padding: 18px;
+}
+
+.news, a {
+  color: white;
+  font-size: 20px;
+}
+
+.home-news {
+  background-color: #bdb76b;
+  padding: 20px;
+}
+
+.content {
+  background-color: white;
+}
+
+.container {
+  margin-top: 10px;
+}
+
+footer {
+  background-image: url("./Images/soccer.jpg");
+  padding: 80px;
+  color: white;
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 600;
+}
+
+.jumbotron {
+  margin-top: 70px;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.navbar {
+  padding-top: 20px;
+}
+
+p {
+  font-size: 17px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 600;
+}
