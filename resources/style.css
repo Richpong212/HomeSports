@@ -34,12 +34,12 @@ body {
 }
 
 footer {
-  background-image: url("./Images/soccer.jpg");
-  padding: 80px;
+  background-color: black;
   color: white;
-  font-size: 30px;
-  margin-top: 50px;
-  font-weight: 600;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  background-image: url("./Images/soccer.jpg");
 }
 
 .jumbotron {
